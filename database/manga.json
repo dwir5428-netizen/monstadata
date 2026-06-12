@@ -1,46 +1,18 @@
-// mangaJSON_V1.0 Rev 0
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "The Dragon Slayer's Regression Requires Aftermath Handling / 용살자의 회귀는 뒷감당이 필요하다",
-  "status": "Ongoing",
-  "author": "Woo Gak",
-  "artist": "Studio Inus",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Martial Arts",
-    "Regression",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Slayer Giles gagal mencegah kehancuran dunia meskipun telah berhasil membunuh Naga Kuno. Namun, ketika dia membuka mata kembali, dia mendapati dirinya terlempar ke masa lalu, tepat sebelum malapetaka besar itu dimulai. Berbekal ingatan masa depan dan kemampuan bertarung tiada tanding yang telah ditempa, dimulailah perjalanan regresi sang pembantai naga untuk membalikkan takdir tragis dunia.",
-  "cover_url": "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": "01",
-      "chapter_title": "Prolog - Akhir dari Keputusasaan",
-      "images": [
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-01/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": "02",
-      "chapter_title": "Membuka Mata di Masa Lalu",
-      "images": [
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/004.jpg",
-        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-02/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "M-8g8e2p65q",
+    "title": "A Cadet Becomes a Prophet",
+    "category": "action",
+    "cbzName": "A Cadet Becomes a Prophet.cbz",
+    "path": "action/A Cadet Becomes a Prophet.cbz",
+    "cover": "https://placehold.co/300x400/141414/39ff14?text=A%20Cadet%20Becomes"
+  },
+  {
+    "id": "M-aw15gvg4j",
+    "title": "Academy s Genius Swordmaster",
+    "category": "action",
+    "cbzName": "Academy_s Genius Swordmaster.cbz",
+    "path": "action/Academy_s Genius Swordmaster.cbz",
+    "cover": "https://placehold.co/300x400/141414/39ff14?text=Academy%20s%20Geniu"
+  }
+]
